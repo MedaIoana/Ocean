@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dolphin
+* source:	https://sketchfab.com/3d-models/dolphin-06db7f1bfe9c46feb17b2df67f8e028d
+* author:	rkuhlf (https://sketchfab.com/rkuhlf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dolphin" (https://sketchfab.com/3d-models/dolphin-06db7f1bfe9c46feb17b2df67f8e028d) by rkuhlf (https://sketchfab.com/rkuhlf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
