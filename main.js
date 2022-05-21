@@ -1,11 +1,11 @@
-import './style.css'
 
-import * as THREE from 'three';
 
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
-import { Water } from 'three/examples/jsm/objects/Water.js';
-import { Sky } from 'three/examples/jsm/objects/Sky.js';
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
+//import * as THREE from 'three';
+
+//import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
+//import { Water } from 'three/examples/jsm/objects/Water.js';
+//import { Sky } from 'three/examples/jsm/objects/Sky.js';
+//import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
 
 let camera, scene, renderer;
 let controls, water, sun;
