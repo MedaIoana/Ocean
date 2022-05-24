@@ -2,10 +2,10 @@
 
 import * as THREE from 'three';
 
-import { OrbitControls } from './OrbitControls.js';
-import { Water } from './Water.js';
-import { Sky } from './Sky.js';
-import { GLTFLoader } from './GLTFLoader.js'
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
+import { Water } from 'three/examples/jsm/objects/Water.js';
+import { Sky } from 'three/examples/jsm/objects/Sky.js';
+import { GLTFLoader } from 'three/examples/jsm/loareds/GLTFLoader.js'
 
 let camera, scene, renderer;
 let controls, water, sun;
